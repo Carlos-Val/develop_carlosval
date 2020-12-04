@@ -72,7 +72,6 @@ Esto vicia!
 | @jaumeserr | Jaume | Serradell | [SkyReader](https://github.com/jaumeserr/Skyscanner-Nuclio)
 | @hipstercode | Oscar | Gallego | [KataRemotosGit](https://github.com/hipstercode/KataRemotosGit)
 | @joanbatiste | Joan | Puig | [Hello_World](https://github.com/joanbatiste/Hello-World)
-| @carlosval | Carlos | Val | [Hello World](https://github.com/Carlos-Val/Hola-mundo)
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
